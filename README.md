@@ -1,5 +1,15 @@
 # DSA Training
 
+![GitHub repo size](https://img.shields.io/github/repo-size/KarthikSarika/Advance-DSA)
+![GitHub last commit](https://img.shields.io/github/last-commit/KarthikSarika/Advance-DSA)
+
+## Getting Started
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/KarthikSarika/Advance-DSA.git
+
+
 This repository contains solutions and exercises from my Data Structures and Algorithms (DSA) training. Each day's problems are organized into their respective `DAYX` folders.
 
 ## Table of Contents
@@ -199,3 +209,15 @@ This table lists all the unique algorithms and techniques covered in this DSA tr
 | Rabin-Karp Algorithm |
 | Permutations of String (Backtracking) |
 | Permutations of Numeric Array (Backtracking + BST) |
+
+## Algorithms Learned
+
+- **Graph Algorithms**: DFS, BFS, Connected Components, Topological Sort, Cycle Detection
+- **Greedy Algorithms**: Stock Buy-Sell, Gas Station
+- **Disjoint Set Union (DSU)**: Union-Find, Kruskal's MST
+- **Dynamic Programming**: Subsequence problems, Catalan numbers, Longest substring, etc.
+- **Tries**: Insert/Search/Prefix operations, Word Break
+- **Sliding Window Techniques**
+- **Backtracking & Recursion**
+- **String Algorithms**: KMP, Rabin-Karp, Boyer-Moore, Naive Pattern Search
+- **Segment Trees**
