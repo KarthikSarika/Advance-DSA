@@ -12,6 +12,18 @@
 
 This repository contains solutions and exercises from my Data Structures and Algorithms (DSA) training. Each day's problems are organized into their respective `DAYX` folders.
 
+## Algorithms Learned
+
+- **Graph Algorithms**: DFS, BFS, Connected Components, Topological Sort, Cycle Detection
+- **Greedy Algorithms**: Stock Buy-Sell, Gas Station
+- **Disjoint Set Union (DSU)**: Union-Find, Kruskal's MST
+- **Dynamic Programming**: Subsequence problems, Catalan numbers, Longest substring, etc.
+- **Tries**: Insert/Search/Prefix operations, Word Break
+- **Sliding Window Techniques**
+- **Backtracking & Recursion**
+- **String Algorithms**: KMP, Rabin-Karp, Boyer-Moore, Naive Pattern Search
+- **Segment Trees**
+
 ## Table of Contents
 
 This table categorizes the problems by the primary algorithm or technique used.
@@ -110,114 +122,3 @@ This table categorizes the problems by the primary algorithm or technique used.
 | Rabin-Karp Algorithm | DAY23 | p1 |
 | Permutations of String (Backtracking) | DAY23 | p2 |
 | Permutations of Numeric Array (Backtracking + BST) | DAY23 | p3 |
-
-## Algorithms Learned
-
-This table lists all the unique algorithms and techniques covered in this DSA training.
-
-| Algorithm/Technique |
-|---------------------|
-| Graph Representation (Adjacency Matrix - Undirected) |
-| Graph Representation (Adjacency Matrix - Directed) |
-| Graph Representation (Adjacency List - Undirected) |
-| Graph Representation (Adjacency List - Directed) |
-| Graph Representation (Adjacency List with HashMap - Undirected) |
-| Graph Representation (Adjacency List with HashMap - Directed) |
-| DFS (Adjacency Matrix - Recursive) |
-| DFS (Adjacency Matrix - Iterative) |
-| DFS (Adjacency List - Recursive) |
-| DFS (Adjacency List - Iterative) |
-| Connected Components (DFS - Adjacency List) |
-| BFS (Adjacency Matrix) |
-| BFS (Adjacency List) |
-| Connected Components (BFS - Adjacency List) |
-| Connected Components Count (DFS - Adjacency List) |
-| Connected Components (DFS - Adjacency List) |
-| Connected Components Count (DFS - Adjacency Matrix) |
-| Connected Components (DFS - Adjacency Matrix) |
-| Connected Components Count (BFS - Adjacency List) |
-| Connected Components (BFS - Adjacency List) |
-| Connected Components Count (BFS - Adjacency Matrix) |
-| Connected Components (BFS - Adjacency Matrix) |
-| Number of Islands (DFS) |
-| Graph Traversal (DFS - All Nodes Reachable) |
-| Graph Traversal (DFS - All Nodes Reachable - Adjacency List) |
-| Connected Components (DFS - Adjacency Matrix - Min/Max Size) |
-| Count Paths (DFS - DAG) |
-| Count Paths (BFS - DAG) |
-| Bipartite Graph Check (DFS) |
-| Bipartite Graph Check (BFS) |
-| Disjoint Set Union (DSU) - Basic |
-| Disjoint Set Union (DSU) - Count Components |
-| Flood Fill (DFS - Recursive) |
-| Flood Fill (BFS) |
-| Flood Fill (BFS - Iterative) |
-| Disjoint Set Union (DSU) - Earliest Time to Become Friends |
-| Graph (Celebrity Problem) |
-| Disjoint Set Union (DSU) - Connecting Employees |
-| Disjoint Set Union (DSU) - Component Sizes |
-| Disjoint Set Union (DSU) - Component Size Difference |
-| Kruskal's Algorithm (MST - DSU) |
-| Cycle Detection (DSU) |
-| Cycle Detection (DFS - Directed Graph) |
-| Cycle Detection (BFS - Directed Graph - Kahn's Algorithm) |
-| Topological Sort (DFS) |
-| Topological Sort (BFS - Kahn's Algorithm) |
-| Trie (Insert, Search, Prefix) |
-| Trie (Insert, Search, Count Words, Count Prefixes) |
-| Trie (Max Word Prefix Count) |
-| Longest Common Prefix (Sorting) |
-| Longest Common Prefix (Trie) |
-| Word Search (DFS) |
-| Word Break Problem (Trie + DP) |
-| Catalan Number (Dynamic Programming) |
-| Sliding Window (Minimum Difference) |
-| Dynamic Programming (Frog Jump with K Distance) |
-| Longest Common Substring (DP) |
-| Longest Common Substring (DP - Print Substring) |
-| Longest Common Substring (DP - Length) |
-| Longest Square Submatrix with All 1s (DP) |
-| Shortest Common Supersequence (DP) |
-| Minimum Insertions to Make Palindrome (LCS) |
-| Count Distinct Subsequences (DP) |
-| Max Profit from Stock Prices (Greedy) |
-| Wildcard Pattern Matching (DP) |
-| Longest Subarray with Equal 0s and 1s (Brute Force) |
-| Longest Subarray with Equal 0s and 1s (HashMap) |
-| Longest Bitonic Subsequence (DP) |
-| Segment Tree (Range Minimum Query & Point Update) |
-| Max MEX (Sliding Window + TreeSet) |
-| Perfect Squares (Dynamic Programming) |
-| Count Substrings with K Vowels (Sliding Window) |
-| Max Coins without Adjacent Houses (Dynamic Programming) |
-| Find All Anagrams in a String (Sliding Window + Frequency Array) |
-| Unique Paths in Grid (DFS + Memoization) |
-| Count Subarrays with Product Less Than K (Sliding Window) |
-| Count Subarrays with Sum*Length Less Than K (Sliding Window) |
-| Fruits into Baskets (Sliding Window) |
-| Combination Sum (Dynamic Programming) |
-| Smooth Decent (Sliding Window) |
-| Repeated DNA Sequences (Sliding Window + HashSet) |
-| Interleave Queue using Stack |
-| Gas Station Problem (Greedy) |
-| BST Boundary Traversal (Left, Right, Leaves) |
-| Permutation Check (Stack & Queue) |
-| Naive Pattern Search |
-| KMP Algorithm |
-| Boyer-Moore (Bad Character Heuristic) |
-| Boyer-Moore (Good Suffix Heuristic) |
-| Rabin-Karp Algorithm |
-| Permutations of String (Backtracking) |
-| Permutations of Numeric Array (Backtracking + BST) |
-
-## Algorithms Learned
-
-- **Graph Algorithms**: DFS, BFS, Connected Components, Topological Sort, Cycle Detection
-- **Greedy Algorithms**: Stock Buy-Sell, Gas Station
-- **Disjoint Set Union (DSU)**: Union-Find, Kruskal's MST
-- **Dynamic Programming**: Subsequence problems, Catalan numbers, Longest substring, etc.
-- **Tries**: Insert/Search/Prefix operations, Word Break
-- **Sliding Window Techniques**
-- **Backtracking & Recursion**
-- **String Algorithms**: KMP, Rabin-Karp, Boyer-Moore, Naive Pattern Search
-- **Segment Trees**
